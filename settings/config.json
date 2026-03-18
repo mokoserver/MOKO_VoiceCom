@@ -1,0 +1,32 @@
+{
+  "wake_word": "МОКО",
+  "wake_variants": [
+    "моко",
+    "мог",
+    "мокко",
+    "мока",
+    "боку",
+    "окко",
+    "мука",
+    "около",
+    "бока",
+    "могу",
+    "око",
+    "округ"
+  ],
+  "commands": [
+    "старт",
+    "стоп",
+    "пауза",
+    "запустись",
+    "запустить"
+  ],
+  "vosk_model_path": "D:/GitHub/MOKO/MOKO_VoiceCom/Model/vosk-model-small-ru-0.22",
+  "input_device_index": 1,
+  "equalizer_bars": 32,
+  "samplerate": 16000,
+  "command_actions": {
+    "запустить": "C:/MOKO SE/MOKO SE.exe",
+    "запустись": "C:/MOKO SE/MOKO SE.exe"
+  }
+}
