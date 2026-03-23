@@ -19,7 +19,8 @@
     "стоп",
     "пауза",
     "запустись",
-    "запустить"
+    "запустить",
+    "запастись"
   ],
   "vosk_model_path": "D:/GitHub/MOKO/MOKO_VoiceCom/Model/vosk-model-small-ru-0.22",
   "input_device_index": 1,
